@@ -1,12 +1,13 @@
-# Scrape Google Scholar with Python
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/78694043/170675316-0d7be468-3a85-43b7-9151-260e4f2c1c7e.png" />
+</p>
 
-## Includes: 
-1. Organic results 
-2. Profiles results 
-3. Cite results
-4. Authors (articles, cited by, public access, co-authors) results. 
+## Scrapes: 
+1. Organic results, pagination.
+2. Profiles results, pagination.
+3. Cite results.
+4. Profile results, pagination.
+5. Authors (articles (pagination), cited by, public access, co-authors) results. 
 
-___
-Original blog [link]()
-
-Replit.com [link](https://medium.com/r?url=https%3A%2F%2Freplit.com%2F%40DimitryZub1%2FScrape-Google-Scholar-Python-SerpApi)
+## Blog post series:
+[Google Scholar blog post web scraping series in Python at SerpApi](https://serpapi.com/blog/tag/google-scholar/).
